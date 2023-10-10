@@ -1,5 +1,3 @@
-import LikeButton from "../components/UserTable";
-
 export default function AboutPage() {
   return (
     <>
